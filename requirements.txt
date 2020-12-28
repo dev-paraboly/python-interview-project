@@ -1,0 +1,14 @@
+flask-restful
+flask
+flask-restplus
+psycopg2-binary
+werkzeug
+python-dotenv
+waitress
+Paste
+numpy
+scipy
+pandas
+geopy
+fastapi[all]==0.61.2
+openpyxl
